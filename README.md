@@ -41,6 +41,12 @@ A quantidade *K*, que define o número de vizinhos considerados no processo de d
 8. Comparação com modelos concorrentes, ressaltando vantagens e deficiências.
 9. Ajuste do hiperparâmetro *K* com uso de `GridSearchCV`.
 
+## Base de Dados
+
+- **Fonte:** Kaggle
+- **Nome:** Pima Indians Diabetes Dataset
+- **Formato:** Arquivo CSV (`diabetes.csv`)
+
 ## Ferramentas e Bibliotecas Utilizadas
 
 - Python 3.x
