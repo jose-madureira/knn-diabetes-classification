@@ -38,10 +38,10 @@ Essa categorização é realizada a partir da análise de atributos coletados pr
 
 ## Bibliotecas Utilizadas
 
-- Python 3.x
+- `python 3.x` - linguagem base;
 - `pandas`, `numpy` – manipulação e tratamento de dados;
 - `matplotlib`, `seaborn` – geração de gráficos e visualizações para o EDA;
-- `scikit-learn` – construção e avaliação dos modelos de aprendizado supervisionado.
+- `scikit-learn` – construção e avaliação dos modelos.
 
 ## Organização do Repositório
 
